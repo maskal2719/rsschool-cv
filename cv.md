@@ -16,7 +16,7 @@ On the path to becoming a developer
 ### Skills
 
 
-- HTML, CSS, JS, TS, Angular, Git
+- HTML, CSS, JS, TS, Angular, Git, Java
 
 
 ### Projects
