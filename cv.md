@@ -10,7 +10,7 @@
 
 ### Profile
 
-On the path to becoming a developer
+On the path to becoming a front-end developer.
 
 
 ### Skills
